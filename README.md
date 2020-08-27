@@ -32,7 +32,7 @@ python3 -m venv .venv
 - Ative a virtual env
 
 ```bash
-python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 - Instale as bibliotecas
@@ -71,7 +71,7 @@ Output
 - Ative a virtual env
 
 ```bash
-python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 - Inicie a API
